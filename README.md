@@ -9,4 +9,4 @@
 
 ## You can visit my calculator app 
 
-Go to [this website](poornaka.github.io/awesome-calculator)
+Go to [this website](https://poornaka.github.io/awesome-calculator)
