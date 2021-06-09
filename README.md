@@ -7,6 +7,6 @@
 - 📫 How to reach me: poornakadb2007@gmail.com
 - 🤹‍♂️ I'm good at Python, HTML, CSS and JS
 
-# You can visit my calculator app 
+## You can visit my calculator app 
 
 Go to [this website](poornaka.github.io/awesome-calculator)
