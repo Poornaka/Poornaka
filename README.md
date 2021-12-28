@@ -1,12 +1,9 @@
 # Hello 🙋‍♂️
 
-- 🔭 I’m currently working on a calculator
-- 🌱 I’m currently learning web development
-- 👯 I’m looking to collaborate on a website
-- 🤔 I’m looking for help with JavaScript
-- 📫 How to reach me: poornakadb2007@gmail.com
-- 🤹‍♂️ I'm good at Python, HTML, CSS and JS
+I code Python, HTML, CSS and JavaScript. 
 
-## You can visit my calculator app 
+I've coded and deployed a calculator;
 
-Go to [this website](https://poornaka.github.io/awesome-calculator)
+Go to [this website](https://poornaka.github.io/awesome-calculator) if you want to see it.
+
+👋
